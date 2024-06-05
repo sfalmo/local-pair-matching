@@ -1,0 +1,5 @@
+.venv
+__pycache__/
+
+model_with_shape_info.png
+models/current*.keras
