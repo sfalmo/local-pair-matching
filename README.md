@@ -1,3 +1,10 @@
+# Neural density functionals: Local learning and pair-correlation matching
+
+This repository contains code, datasets and models corresponding to the following publication:
+
+**Neural density functionals: Local learning and pair-correlation matching**  
+*Florian Sammüller and Matthias Schmidt; [arXiv:2406.03327](https://arxiv.org/abs/2406.03327).*
+
 ### Setup
 
 Working in a virtual environment is recommended.
@@ -7,7 +14,7 @@ To use a GPU with Tensorflow/Keras, refer to the corresponding section in the in
 ### Instructions
 
 Simulation data can be found in `data` and trained models are located in `models`.
-Sample script for training the considered models from scratch are given in `learn_c1.py`, `learn_fexc.py` and `learn_Fexc.py`.
+Sample scripts for training the considered models from scratch are given in `learn_c1.py`, `learn_fexc.py` and `learn_Fexc.py`.
 
 ### Further information
 
