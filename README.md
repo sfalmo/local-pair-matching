@@ -3,7 +3,7 @@
 This repository contains code, datasets and models corresponding to the following publication:
 
 **Neural density functionals: Local learning and pair-correlation matching**  
-*Florian Sammüller and Matthias Schmidt; [arXiv:2406.03327](https://arxiv.org/abs/2406.03327).*
+*Florian Sammüller and Matthias Schmidt, [Phys. Rev. E **110**, L032601](https://doi.org/10.1103/PhysRevE.110.L032601) (2024); [arXiv:2406.03327](https://arxiv.org/abs/2406.03327).*
 
 ### Setup
 
